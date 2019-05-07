@@ -1,14 +1,13 @@
-OxygenOS Sound Pack
+OnePlus Weather and Widget
 ==========
 
-Add OxygenOS ringtones, notifications and alarms sounds to your ROM!
+Adds Stock Oneplus Weather and Widget to your non-OxygenOS ROM.
+DO NOT INSTALL if you're using OxygenOS ROMs!
 
 
 ## Changelog
-* v5    (06.05.2019) - Update to Magisk v18100 template
-* v4    (18.11.2018) - Make the version to be the same as the versionCode
-* v1.01 (05.09.2018) - Update to Magisk v17000 template
-* v1.0  (30.08.2018) - Initial release
+* v2 (07.05.2019) - Update to Magisk v18100 template
+* v1 (16.01.2019) - Initial release
 
 
 ## Notice
@@ -17,12 +16,12 @@ Add OxygenOS ringtones, notifications and alarms sounds to your ROM!
 
 
 ## Links
-* [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/magisk-oxygenos-sound-pack-v4-t3868542)
 * [![Magisk](https://img.shields.io/badge/Magisk-v17%2B-brightgreen.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 
 
 ## Credits
 * <a href="https://forum.xda-developers.com/member.php?u=4470081">topjohnwu@xda</a> for developing Magisk
+* rajdedhia10@xda for porting the Apps
 
 
 Copyright (C) 2019 <a href="https://forum.xda-developers.com/member.php?u=6415870">tfae@xda</a> (tfaeusebio@gmail.com)
