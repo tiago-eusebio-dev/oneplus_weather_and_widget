@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="net.oneplus.weather">
+        <permission name="android.permission.ACCESS_COARSE_LOCATION"/>
+        <permission name="android.permission.ACCESS_FINE_LOCATION"/>
+        <permission name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"/>
+        <permission name="android.permission.ACCESS_MOCK_LOCATION"/>
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.ACCESS_WIFI_STATE"/>
+        <permission name="android.permission.BLUETOOTH"/>
+        <permission name="android.permission.BLUETOOTH_ADMIN"/>
+        <permission name="android.permission.CHANGE_WIFI_STATE"/>
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+        <permission name="android.permission.READ_LOGS"/>
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+        <permission name="android.permission.VIBRATE"/>
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+        <permission name="net.oneplus.weather.permission.UPDATE"/>
+    </privapp-permissions>
+</permissions>
